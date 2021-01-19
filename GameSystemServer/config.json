@@ -1,0 +1,8 @@
+{
+    "debug": true,
+    "hostname": "127.0.0.1",
+    "port": 5001,
+    "use_ssl": false,
+    "certificate_crt_path": "",
+    "certificate_key_path": ""
+}

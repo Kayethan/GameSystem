@@ -1,0 +1,10 @@
+{
+    "debug": true,
+    "name": "GameSystemClient",
+    "use_https": false,
+    "hostname": "127.0.0.1",
+    "port": "5001",
+    "game_execut_command": "cd /d .\\Game && start /high /wait cmd /c game.exe & exit ^!errorlevel^!",
+    "game_config_path": ".\\Game\\config.txt",
+    "game_result_path": ".\\Game\\result.txt"
+}
